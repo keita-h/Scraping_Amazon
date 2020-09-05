@@ -1,0 +1,176 @@
+11:45:36
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 71, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+パスワード入力に失敗
+11:50:45
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 71, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:パスワード入力に失敗
+11:52:06
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 71, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:パスワード入力に失敗
+11:53:51Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 71, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:パスワード入力に失敗
+ErrorTime:11:55:57
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 71, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:パスワード入力に失敗
+・ErrorTime:12:19:37
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\logout.py", line 41, in logout
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+ログアウトに失敗
+・ErrorTime:12:46:30
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\logout.py", line 40, in logout
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:ログアウトに失敗
+・ErrorTime:14:48:29
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 90, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:パスワード入力に失敗
+・ErrorTime:14:51:20
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 90, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:パスワード入力に失敗
+・ErrorTime:14:56:31
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 90, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:パスワード入力に失敗
+・ErrorTime:15:15:46
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\parts\login.py", line 90, in input_pass
+    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, selector)))
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:パスワード入力に失敗
+・ErrorTime:15:53:50
+Traceback (most recent call last):
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexes\base.py", line 2646, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas\_libs\index.pyx", line 111, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1619, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1627, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\Main.py", line 86, in <module>
+    for df in excel_df["www"]:
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\frame.py", line 2800, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexes\base.py", line 2648, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas\_libs\index.pyx", line 111, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1619, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1627, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www''www'
+・ErrorTime:15:55:09
+Traceback (most recent call last):
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexes\base.py", line 2646, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas\_libs\index.pyx", line 111, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1619, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1627, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:/Users/k-ta2/python/スクレイピング_Amazon/値段取得/Main.py", line 86, in <module>
+    for df in excel_df["www"]:
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\frame.py", line 2800, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexes\base.py", line 2648, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas\_libs\index.pyx", line 111, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1619, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1627, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www'
+・ErrorTime:15:56:18
+Traceback (most recent call last):
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexes\base.py", line 2646, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas\_libs\index.pyx", line 111, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1619, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1627, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:/Users/k-ta2/python/スクレイピング_Amazon/値段取得/Main.py", line 86, in <module>
+    for df in excel_df["www"]:
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\frame.py", line 2800, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexes\base.py", line 2648, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas\_libs\index.pyx", line 111, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1619, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1627, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www'
+・ErrorTime:15:57:53
+Traceback (most recent call last):
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexes\base.py", line 2646, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas\_libs\index.pyx", line 111, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1619, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1627, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\k-ta2\python\スクレイピング_Amazon\値段取得\Main.py", line 86, in <module>
+    for df in excel_df["www"]:
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\frame.py", line 2800, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\k-ta2\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexes\base.py", line 2648, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas\_libs\index.pyx", line 111, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1619, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1627, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www'
